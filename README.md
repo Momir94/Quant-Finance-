@@ -3,7 +3,7 @@
 The analysis presented in the master thesis titled Portfolio Optimization: Acknowledging the Practical Value of Markowitz's Theory has been based on the following notebooks:
 Modeling Market Volatility_GARCH(1,1), Modeling Market Volatility_EWMA&VIX, Calculate Weights and Portfolio Analysis. 
 
-Random Walk notebook has been considered but not included in the study since the primary focus was on minimum variance portfolios. The abstract of the paper is offered below, while the full access is available upon request. 
+Random Walk notebook has been considered but not included in the study since the primary focus was on minimum variance portfolios.
 
 ABSTRACT 
 
